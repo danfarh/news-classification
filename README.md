@@ -12,7 +12,7 @@ The project will use a machine learning approach to classify news articles into 
 - Feature Extraction: The text data will be transformed into a numerical representation using word2vec embeddings.
 - Model Selection: A biLSTM neural network model with a word embedding layer will be trained on the features extracted from the text data.
 - Model Evaluation: The model will be evaluated on a test set to measure its accuracy and other performance metrics.
-- 
+
 ## Requirements
 - Python 
 - Tensorflow
