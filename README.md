@@ -6,8 +6,8 @@ This project aims to classify news articles from the Hamshahri News dataset into
 The dataset used for this project is the Hamshahri News dataset, which is a collection of Persian news articles from the Hamshahri newspaper in Iran. 
 
 ## Requirements
-Python 
-Tensorflow
-Keras
-Pandas
-NumPy
+- Python 
+- Tensorflow
+- Keras
+- Pandas
+- NumPy
